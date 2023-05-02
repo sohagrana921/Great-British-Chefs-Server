@@ -19,7 +19,7 @@
       "Tomato sauce"
     ],
     "cookingMethod": "Marinate chicken in yogurt and garam masala for at least 1 hour. Grill or broil chicken until cooked through. Heat tomato sauce in a separate pan.",
-    "rating": 4.8
+    "rating": 4
   },
   {
     "recipe_id": 333,
@@ -33,6 +33,6 @@
       "Caesar dressing"
     ],
     "cookingMethod": "Tear lettuce into bite-sized pieces and toss with croutons and parmesan cheese. Drizzle with Caesar dressing and serve.Beat eggs and parmesan cheese together. ",
-    "rating": 4.2
+    "rating": 3.2
   }
 ]
