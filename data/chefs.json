@@ -1,0 +1,63 @@
+[
+  {
+    "id": 1,
+    "chef_name": "Gordon Ramsay",
+    "years_of_experience": 30,
+    "num_recipes": 100,
+    "likes": 5000,
+    "chef_picture": "https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcQGpj4x2fMza1UANyOouYlorvYB_gBnsKn-ng&usqp=CAU",
+
+    "bio": "Gordon Ramsay is one of the most well-known chefs in the world. He has built a culinary empire that spans the globe, with restaurants in London, New York, Las Vegas, and beyond. Ramsay's signature dishes are often simple, yet elegant, showcasing the flavors of the ingredients he uses. He is also known for his harsh critiques on reality cooking shows like Hell's Kitchen and Kitchen Nightmares. Despite his tough exterior, Ramsay is a passionate chef who cares deeply about the quality of his food and the people he works with."
+  },
+  {
+    "id": 2,
+    "chef_name": "Jamie Oliver",
+    "years_of_experience": 25,
+    "num_recipes": 75,
+    "likes": 4000,
+    "chef_picture": "https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcQl72UeJm9Fx1UEHMHfQKb7CbJG70a6u4XERCNxSkAruaB4XYlPW8ucdIHhvDgUvPEPy0A&usqp=CAU",
+
+    "bio": "Jamie Oliver is a chef who has made a name for himself by promoting simple, healthy, and affordable cooking. He is passionate about teaching people how to cook delicious meals using fresh, seasonal ingredients. Oliver is also a campaigner for healthy eating, and has worked tirelessly to improve school meals and reduce obesity rates. In addition to his culinary work, Oliver has also been involved in numerous charitable organizations, and was even awarded an MBE for his services to the hospitality industry."
+  },
+  {
+    "id": 3,
+    "chef_name": "Heston Blumenthal",
+    "years_of_experience": 35,
+    "num_recipes": 50,
+    "likes": 3000,
+    "chef_picture": "https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcRlzPOeboW44RV52lTu4NEeCkNJO-wmVtUpKw&usqp=CAU",
+
+    "bio": "Heston Blumenthal is a chef who has made a name for himself by pushing the boundaries of traditional cuisine. He is known for using scientific techniques and unusual ingredients to create dishes that challenge the senses. Blumenthal's flagship restaurant, The Fat Duck, has been named the best restaurant in the world multiple times, and his influence on modern cuisine cannot be overstated. In addition to his culinary work, Blumenthal is also an author and television presenter, and has received numerous awards for his contributions"
+  },
+  {
+    "id": 4,
+    "chef_name": "Nigella Lawson",
+    "years_of_experience": 20,
+    "num_recipes": 60,
+    "likes": 4500,
+    "chef_picture": "https://yt3.googleusercontent.com/ytc/AL5GRJXlQGAiA8xH4NETqiS5SQNxEIOk0Sqmn16EYgfgIA=s900-c-k-c0x00ffffff-no-rj",
+
+    "bio": "Nigella Lawson is a chef who has made a name for herself by celebrating the joy of cooking and eating. Her recipes are often simple and easy to follow, but always delicious and comforting. Lawson is also a writer, and has penned several best-selling cookbooks that have been translated into multiple languages. In addition to her culinary work, Lawson is a passionate advocate for body positivity and has spoken out against unrealistic beauty standards in the media."
+  },
+  {
+    "id": 5,
+    "chef_name": "Marco Pierre White",
+    "years_of_experience": 40,
+    "num_recipes": 30,
+    "likes": 2000,
+    "chef_picture": "https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcQuYajoL55nVJW48gKIqUDVKQtCl0XlKkRsjA&usqp=CAU",
+
+    "bio": "Marco Pierre White is a chef who has made a name for herself by celebrating the joy of cooking and eating. Her recipes are often simple and easy to follow, but always delicious and comforting. Lawson is also a writer, and has penned several best-selling cookbooks that have been translated into multiple languages. In addition to her culinary work, Lawson is a passionate advocate for body positivity and has spoken out against unrealistic beauty standards in the media."
+  },
+
+  {
+    "id": 6,
+    "chef_name": "Delia Smith",
+    "years_of_experience": 50,
+    "num_recipes": 40,
+    "likes": 2500,
+    "chef_picture": "https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcSx7iC7vSX6SQ9hBBMyZng8VLtyFugbobjAfg&usqp=CAU",
+
+    "bio": "Delia Smith is a chef who has made a name for herself by celebrating the joy of cooking and eating. Her recipes are often simple and easy to follow, but always delicious and comforting. Lawson is also a writer, and has penned several best-selling cookbooks that have been translated into multiple languages. In addition to her culinary work, Lawson is a passionate advocate for body positivity and has spoken out against unrealistic beauty standards in the media."
+  }
+]
