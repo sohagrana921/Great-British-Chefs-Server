@@ -1,40 +1,38 @@
 [
   {
-    "recipes": [
-      {
-        "name": "Spaghetti Carbonara",
-        "ingredients": ["spaghetti", "pancetta", "eggs", "parmesan cheese"],
-        "cookingMethod": {
-          "details": "Cook spaghetti until al dente. Meanwhile, sauté pancetta until crispy. Beat eggs and parmesan cheese together. Drain spaghetti and add to pan with pancetta. Remove from heat and pour in egg mixture, stirring constantly until sauce is thick and creamy."
-        },
-        "rating": 4.5
-      },
-      {
-        "name": "Chicken Tikka Masala",
-        "ingredients": [
-          "chicken thighs",
-          "garam masala",
-          "yogurt",
-          "tomato sauce"
-        ],
-        "cookingMethod": {
-          "details": "Marinate chicken in yogurt and garam masala for at least 1 hour. Grill or broil chicken until cooked through. Heat tomato sauce in a separate pan. Cut chicken into bite-sized pieces and add to tomato sauce. Simmer for 10 minutes and serve with rice and naan bread."
-        },
-        "rating": 4.8
-      },
-      {
-        "name": "Caesar Salad",
-        "ingredients": [
-          "romaine lettuce",
-          "croutons",
-          "parmesan cheese",
-          "Caesar dressing"
-        ],
-        "cookingMethod": {
-          "details": "Tear lettuce into bite-sized pieces and toss with croutons and parmesan cheese. Drizzle with Caesar dressing and serve."
-        },
-        "rating": 4.2
-      }
-    ]
+    "recipe_id": 111,
+    "name": "Spaghetti Carbonara",
+    "pic": "https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcTJJPYCNqSUVWNInmxmvnBKFrV6Q67GzMp6ZA&usqp=CAU",
+    "ingredients": ["Spaghetti", "Pancetta", "Oil", "Eggs", "Parmesan cheese"],
+    "cookingMethod": "Cook spaghetti until al dente. Meanwhile, sauté pancetta until crispy. Beat eggs and parmesan cheese together. Drain spaghetti and add to pan with pancetta.",
+    "rating": 4.5
+  },
+  {
+    "recipe_id": 222,
+    "name": "Chicken Tikka Masala",
+    "pic": "https://assets.bonappetit.com/photos/5b69f163d3d14670539a2174/4:3/w_3552,h_2664,c_limit/ba-tikka-masala-2.jpg",
+    "ingredients": [
+      "Chicken thighs",
+      "Oil",
+      "Garam masala",
+      "Yogurt",
+      "Tomato sauce"
+    ],
+    "cookingMethod": "Marinate chicken in yogurt and garam masala for at least 1 hour. Grill or broil chicken until cooked through. Heat tomato sauce in a separate pan.",
+    "rating": 4.8
+  },
+  {
+    "recipe_id": 333,
+    "name": "Caesar Salad",
+    "pic": "https://www.allrecipes.com/thmb/ggiyFcDVOLtboBdHmZbAlZ6PIcU=/1500x0/filters:no_upscale():max_bytes(150000):strip_icc()/14172-ceasar-salad-supreme-armag-4x3-102369087-f709f7d6e1ac402ba07335f2d18e9272.jpg",
+    "ingredients": [
+      "Romaine lettuce",
+      "Croutons",
+      "Oil",
+      "Parmesan cheese",
+      "Caesar dressing"
+    ],
+    "cookingMethod": "Tear lettuce into bite-sized pieces and toss with croutons and parmesan cheese. Drizzle with Caesar dressing and serve.Beat eggs and parmesan cheese together. ",
+    "rating": 4.2
   }
 ]
