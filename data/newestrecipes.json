@@ -1,0 +1,57 @@
+[
+  {
+    "id": 25,
+    "chef_name": "Anthony Bourdain",
+    "recipe_name": "Undhiyu",
+    "recipe_picture": "https://hungryhindu.com/wp-content/uploads/2021/03/EA4F2A39-35E3-4B14-AF57-EC001512711F.jpeg",
+    "ingredients": ["Vegetables", "Spices", "Coconut", "Peanuts", "Jaggery"],
+    "cooking_method": "Mix vegetables, spices, coconut, peanuts, and jaggery, then cook until tender. Serve with roti or rice.",
+    "rating": 4.5
+  },
+  {
+    "id": 26,
+    "chef_name": "Julia Child",
+    "recipe_name": "Bhakri",
+    "recipe_picture": "https://www.archanaskitchen.com/images/archanaskitchen/1-Author/madhulia/Kalanyachi_Bhakri_Chutney.jpg",
+    "ingredients": ["Jowar Flour", "Water", "Salt", "Oil", "Onion"],
+    "cooking_method": "Mix ingredients to make a dough, then roll out and cook on a tava. Serve with onion and chutney.",
+    "rating": 4.2
+  },
+  {
+    "id": 27,
+    "chef_name": "Mario Batali",
+    "recipe_name": "Shrikhand",
+    "recipe_picture": "https://pipingpotcurry.com/wp-content/uploads/2020/11/Kesar-Elaichi-Shrikhand-Recipe-Piping-Pot-Curry.jpg",
+    "ingredients": ["Yogurt", "Sugar", "Cardamom", "Saffron", "Pistachios"],
+    "cooking_method": "Strain yogurt, then mix with sugar, cardamom, and saffron. Serve chilled with pistachios.",
+    "rating": 4.6
+  },
+
+  {
+    "id": 29,
+    "chef_name": "Bobby Flay",
+    "recipe_name": "Chole Bhature",
+    "recipe_picture": "https://upload.wikimedia.org/wikipedia/commons/thumb/9/91/Chole_Bhature_At_Local_Street.jpg/1200px-Chole_Bhature_At_Local_Street.jpg",
+    "ingredients": ["Chickpeas", "Tomatoes", "Onions", "Spices", "Flour"],
+    "cooking_method": "Cook chickpeas with tomatoes, onions, and spices. Serve with fried bread (bhature).",
+    "rating": 4.7
+  },
+  {
+    "id": 30,
+    "chef_name": "Gordon Ramsay",
+    "recipe_name": "Paneer Tikka",
+    "recipe_picture": "https://img.freepik.com/free-photo/chicken-skewers-with-slices-apples-chili_2829-19992.jpg?w=826&t=st=1683032885~exp=1683033485~hmac=ab0dea486ec7361653b72685335450e34104895924b1744dca341c55cc9cce52",
+    "ingredients": ["Paneer", "Bell Peppers", "Onion", "Yogurt", "Spices"],
+    "cooking_method": "Marinate paneer, bell peppers, and onion in yogurt and spices, then roast in a tandoor oven.",
+    "rating": 4.5
+  },
+  {
+    "id": 31,
+    "chef_name": "Jamie Oliver",
+    "recipe_name": "Gobi Manchurian",
+    "recipe_picture": "https://rainbowplantlife.com/wp-content/uploads/2022/02/Gobi-Manchurian-cover-photo-on-white-tile-1-of-1.jpg",
+    "ingredients": ["Cauliflower", "Flour", "Soy Sauce", "Ginger", "Garlic"],
+    "cooking_method": "Coat cauliflower in flour, then fry until crispy. Toss with soy sauce, ginger, and garlic.",
+    "rating": 4.4
+  }
+]
