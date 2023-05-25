@@ -8,7 +8,7 @@ const newest = require("./data/newestrecipes.json");
 app.use(cors());
 
 app.get("/", (req, res) => {
-  res.send("Assignment-10 server is running");
+  res.send("Assignment-10 server  running");
 });
 
 app.get("/chefs", (req, res) => {
